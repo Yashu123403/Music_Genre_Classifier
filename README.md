@@ -1,8 +1,8 @@
-# 🎵 Music Genre Classifier
+#  Music Genre Classifier
 
 A Machine Learning project that classifies songs into different music genres using audio feature extraction and a Random Forest classifier.
 
-## 🚀 Features
+##  Features
 - Audio feature extraction using Librosa
 - Genre prediction using Machine Learning
 - Random Forest classification model
@@ -10,7 +10,7 @@ A Machine Learning project that classifies songs into different music genres usi
 - Confidence score prediction
 - Model saving using Joblib
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Librosa
 - NumPy
@@ -20,7 +20,7 @@ A Machine Learning project that classifies songs into different music genres usi
 - Seaborn
 - Joblib
 
-## 📂 Project Workflow
+##  Project Workflow
 1. Load audio files
 2. Extract audio features
 3. Store features in CSV format
@@ -29,12 +29,12 @@ A Machine Learning project that classifies songs into different music genres usi
 6. Predict genre for new songs
 7. Save trained model
 
-## 🎼 Genres Used
+## Genres Used
 - Classical
 - HipHop
 - Jazz
 
-## 📊 Audio Features Extracted
+## Audio Features Extracted
 - MFCCs
 - Chroma STFT
 - Spectral Centroid
@@ -44,25 +44,25 @@ A Machine Learning project that classifies songs into different music genres usi
 - Harmony & Percussive Features
 - RMS Energy
 
-## 📈 Model Used
+##  Model Used
 - Random Forest Classifier
 
-## 💾 Saved Model Files
+##  Saved Model Files
 - `music_genre_model.pkl`
 - `music_scaler.pkl`
 - `music_encoder.pkl`
 
-## ▶️ How to Run
+##  How to Run
 Install the required Python libraries and run the notebook or Python script to:
 - Extract features
 - Train the model
 - Predict genres
 
-## 📌 Future Improvements
+##  Future Improvements
 - Add more music genres
 - Improve dataset size
 - Build a web application
 - Try deep learning models like CNN or LSTM
 
-## 👨‍💻 Author
+## Author
 YASHU A.B.
